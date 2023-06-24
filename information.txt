@@ -1,0 +1,9 @@
+1. To enable navigation in react-native app we are going to install a package (https://reactnavigation.org/docs/getting-started/):
+    a .npm install @react-navigation/native
+
+    b. As, we are using expo, the setup is very simple as we only need to do the following installation as well:
+        i. npx expo install react-native-screens react-native-safe-area-context
+
+    c. We will use native stack for navigation:
+        i. expo install @react-navigation/native-stack
+
